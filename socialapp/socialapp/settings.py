@@ -26,7 +26,7 @@ ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'socialapp5-4zpf.onrender.com'    ]
 
 
 CSRF_TRUSTED_ORIGINS = [
-    'socialapp5-4zpf.onrender.com'
+    'https://socialapp5-4zpf.onrender.com'
 ]
 
 
