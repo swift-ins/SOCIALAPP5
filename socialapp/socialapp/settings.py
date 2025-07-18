@@ -22,7 +22,7 @@ STATIC_URL = '/static/'
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'socialapp4.onrender.com']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'socialapp4.onrender.com', 'socialapp5-4zpf.onrender.com'    ]
 
 
 CSRF_TRUSTED_ORIGINS = [
